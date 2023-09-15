@@ -12,6 +12,7 @@
 [Calabrian Chili Aoli](recipes/posts/Calabrian_Chili_Aoli.md)  
 [Chicken Marsala](recipes/posts/Chicken_Marsala.md)  
 [Classic French Toast](recipes/posts/Classic_French_Toast.md)  
+[Crunchy Almond Cake](recipes/posts/Crunchy_Almond_Cake.md)  
 [Corn Cakes with Black-Bean Salsa](recipes/posts/Corn_Cakes_with_Black-Bean_Salsa.md)  
 [Curry Chicken Salad](recipes/posts/Curry_Chicken_Salad.md)  
 [Grandma's Pesto](recipes/posts/Grandma's_Pesto.md)  
