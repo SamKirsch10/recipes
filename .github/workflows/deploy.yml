@@ -26,6 +26,6 @@ jobs:
           pip install -r requirements.txt
           for recipe in $(ls docs/recipes/posts); do
             name=$(echo $recipe | sed 's/.md//' | sed 's/_/ /g')
-            echo "[$name](recipes/posts/$recipe)" >> docs/index.md
+            echo "[$name](recipes/posts/$recipe)  " >> docs/index.md
           done
           mkdocs gh-deploy --force
