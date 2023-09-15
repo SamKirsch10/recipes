@@ -30,4 +30,4 @@ jobs:
           done
           mkdir -p dist
           cp CNAME dist
-          mkdocs gh-deploy -d dist/ --force
+          mkdocs gh-deploy -d dist/ --dirty --force
