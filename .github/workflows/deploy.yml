@@ -28,4 +28,6 @@ jobs:
             name=$(echo $recipe | sed 's/.md//' | sed 's/_/ /g')
             echo "[$name](recipes/posts/$recipe)  " >> docs/index.md
           done
+          mkdir -p /__w/recipes/recipes
+          cp CNAME /__w/recipes/recipes
           mkdocs gh-deploy --force
