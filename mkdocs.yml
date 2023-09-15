@@ -1,0 +1,18 @@
+site_name: Kirsch Recipes
+theme:
+  name: material
+plugins:
+  - glightbox
+  - macros
+  - search
+  - blog:
+      blog_dir: recipes
+      post_readtime: false
+      archive: false
+markdown_extensions:
+  - attr_list
+  - md_in_html      
+nav:
+  - index.md
+  - Recipes:
+    - recipes/index.md 
