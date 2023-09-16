@@ -1,6 +1,10 @@
 site_name: Kirsch Recipes
 theme:
   name: material
+  favicon: images/favicon_io/favicon.ico
+  logo: images/favicon_io/icon.png
+  palette:
+    primary: blue grey
 plugins:
   - glightbox
   - macros
