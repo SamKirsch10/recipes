@@ -24,20 +24,18 @@ categories:
 
 
 ## Steps
-1. 4 oz or one cup sliced almonds 5-7 mins 350 
-2. Brush butter and parchment pan, butter parchment and sides
-3. Sprinkle demerara sugar (1/4 cup) sprinkle and layer sugar and almonds
-4. Mix dry ingredients- 3/4 cup plus two table spoons AP flour
-5. Salt and 1 teaspoon baking powder
-6. Cream together - butter, almond paste, and sugar - crumble almond paste, granulated sugar, butter softened, hand mixer and work until pale and fluffy around 5 minutes
-7. 4 eggs- crack into hut best one at a time until light and creamy
-8. Add vanilla extract
-9. Alternate amaretto and flour - mix at half speed
-10. Add remaining dry until smooth
-11. Thorough scrape and fold
-12. Dollop across pan in sections
-13. Smooth with offset spatula 
-14. 35-40 minutes in oven
-15. Springy to touch in center with light cracking, clean but greasy
-16. Let release steam and set - 15 mins cut around side and turn it out- no more than 15 mins
+1. Toast almonds 5-7 mins in a 350°F oven
+2. Cut parchment into circle and put in pan. Brush butter on parchment and sides of pan
+3. Sprinkle demerara sugar on bottom of pan and layer sugar and almonds
+4. Mix dry ingredients together
+5. Cream butter, almond paste, and sugar together with a hand mixer and work until pale and fluffy. Around 5 minutes
+6. Add eggs one at a time while mixing on low speed until incorporated.
+7. Add vanilla extract
+8. Alternate amaretto and dry ingredients - mix at half speed
+9. Thoroughly scrape and fold mixture to ensure everything is mixed
+10. Dollop across pan in sections and smooth with offset spatula 
+11. Bake 35-40 minutes
+12. Check the cake for a springy to touch in center with light cracking
+13. Take out of oven and let steam release and cool for 15 mins 
+14. Cut around side and turn it out on a rack to finish cooling
 
