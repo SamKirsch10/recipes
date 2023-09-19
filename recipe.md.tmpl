@@ -1,0 +1,29 @@
+---
+date: {{ date }}
+categories:
+{% for category in categories -%}
+  - {{ category }}
+{% endfor %}
+  
+---
+
+# {{ title }}
+![some_image.jpeg](../../images/image.jpg){ style="width:60%;" }
+
+!!! note ""
+    {% if site -%}
+    Site: [https://www.skinnytaste.com/shrimp-francese/](https://www.skinnytaste.com/shrimp-francese/)  
+    {% endif -%}
+    Yield {{ servings }} Servings  
+    {{ total_time }}
+    
+## Ingredients
+{% for ingredient in ingredients -%}
+* {{ ingredient }}
+{% endfor %}
+
+
+## Steps
+{% for step in steps -%}
+{{ step }}
+{% endfor %}
