@@ -11,6 +11,7 @@ categories:
 ![breadboule.jpeg](../../images/breadboule.jpeg){ style="width:60%;" }
 
 !!! note ""
+    Site: [https://www.brianlagerstrom.com/recipes/1-dough-3-loaves-2](https://www.brianlagerstrom.com/recipes/1-dough-3-loaves-2)  
     3 hours proofing  
     30 mins 'active'  
     40 mins baking
@@ -37,23 +38,24 @@ categories:
 
 ## Steps
 1. 24h before: Mix all ingredients for poolish and let sit at room temp
-2. Mix water, yeast, and 300g poolish until combined.
-3. Add salt, the 50g whole wheat flour, and 400g bread flour. Mix with a spoon until shaggy dough is formed.
-4. Wet hands liberally 
-5. Mix dough until well combined
-6. Let rise 30 mins 
-7. Wet hands and fold and tuck
-8. Repeat 30 mins later
-9. Let rise 60 more minutes
-10. Flip out onto floured surface
-11. Poke out any big buddles
-12. Fold the corners towards the center to make it back into a circle
-13. Flip over seam now down
-14. Roll rough and tuck seams to create a tight ball
-15. Using a tea towel, place into a bowl, heavily flour 
-16. Place loaf - seamside up
-17. Close up towel and let proof for an hour.
-18. Preheat oven with dutch oven inside to 480.
-19. Take dutch oven out, carefully sprinkle semolina flour on bottom and place dough inside.
-20. Let bake, covered, for 18 mins.
-21. Remove top, lower oven to 465 and cook for another 20 mins
+2. In a medium bowl, mix together the warm water, instant yeast, and ripe poolish.
+3. Add the salt, bread flour, and whole wheat flour to the bowl.
+4. Stir with a sturdy spoon until the ingredients are reasonably combined.
+5. Then use a wet hand to squeeze and massage the dough until there are no longer any dry spots and everything is evenly combined. 
+6. Cover the bowl with a lid and let the dough ferment for 30 minutes.
+7. Perform a strength building fold by pulling out a handful of the dough on one side and folding it over to the other side of the dough. Rotate the bowl slightly and repeat about 7 more times, rotating the bowl after each fold.
+8. After the folds, grab the ball of dough, around its side/bottom, picking up the ball,  rounding and rotating it, then setting it back down to tension across the top and round it onto a ball. Do this several times.
+9. Cover and allow to ferment at room temperature again for another 30 minutes. After 30 minutes repeat steps 6 and 7.
+10. Cover and allow the dough to ferment at room temperature for another 60 minutes. As this point you’ve fermented for 2 hours total. When you check back this time, the dough should have doubled in size. 
+11. Flour your work surface and gently flip the dough out onto it.
+12. Pop any large bubbles and shape the dough.
+13. To shape the dough, grab a corner/side piece of the dough and pull it across to the other side of the dough, about 60% of the way across the other side of the dough. Grab another side/corner of the dough next to the first, and fold it across, about 60% of the way to the other side. Repeat all the way around the dough. You’ll do this between 7-9 times in total, popping any big bubbles that form along the way. 
+14. Flip the dough ball over so that the seam side you is against the work surface. With your hands on either side of the dough, roll the dough on its seam side to seal it and create tension across the top of the dough.
+15. Grab a medium sized bowl that’s just bigger than the dough you just made (i use the same medium stainless bowl that i mixed the dough in). Line the bowl with a thin kitchen towel and dust the towel with a mix of wheat and all purpose flour. Transfer the dough ball to the floured towel-bowl, seam side up, tucking the seam once again to better seal.
+16. Fold the towel over the dough and let it proof at room temperature for 45-80 minutes (depending on the temperature of your house) until it has doubled in size. When you poke the dough, it should indent then slowly spring back.
+17. Preheat the oven to 480°F (250°C)  with a dutch oven inside for 30 minutes
+18. Place a generous dusting of semolina flour or fine cornmeal in the dutch oven to prevent sticking.
+19. Carefully flip the shaped loaf into the dutch oven (seam side will now be DOWN) and score the top with a few cuts or slices.
+20. Cover the dutch oven with the lid and bake for 18 minutes.
+21. Remove the lid and continue baking for another 20-25 minutes, reducing the oven temp to 465F/240C. 
+22. Once baked, transfer the loaf to a wire rack to cool.
