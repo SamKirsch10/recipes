@@ -4,6 +4,7 @@ categories:
   - Cookies
   - Dessert
   - Gluten-Free
+  - Baked
   
 ---
 
