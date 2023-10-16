@@ -1,7 +1,7 @@
 ---
 date: 2023-09-19
 categories:
-  - Seafood
+  - Pasta
   - Dinner
   - One-Pot Dinner
   
