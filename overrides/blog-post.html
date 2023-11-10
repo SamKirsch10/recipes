@@ -5,13 +5,14 @@
 {% endblock %}
 
 {% block content %}
-{{ super() }}
 
-<p>
+<p class="mobile_wake">
     Keep mobile screen on:
 <label class="switch">
 <input class="slider_input" type="checkbox">
 <span class="slider round"></span>
 </label>
 </p> 
+
+{{ super() }}
 {% endblock %}
