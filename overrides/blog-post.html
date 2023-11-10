@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+<script src="/scripts/wake.js"></script>
+{% endblock %}
+
+{% block content %}
+{{ super() }}
+
+<p>
+    Keep mobile screen on:
+<label class="switch">
+<input class="slider_input" type="checkbox">
+<span class="slider round"></span>
+</label>
+</p> 
+{% endblock %}

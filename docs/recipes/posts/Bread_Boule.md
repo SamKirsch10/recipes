@@ -1,5 +1,5 @@
 ---
-date: 2023-10-05 16:01:24.673949
+date: 2023-10-28
 categories:
 - Baked
 - Bread
@@ -11,9 +11,8 @@ categories:
 ![breadboule.jpeg](../../images/breadboule.jpeg){ style="width:60%;" }
 
 !!! warning ""
-    Biga needs to be made 24 hours in advanced.   
-    Make it in a large deli container!
-    
+    Biga needs to be made the day before.  
+
 ## Ingredients
 
 ### Poolish
@@ -31,8 +30,8 @@ categories:
 
 ## Steps
 1. 12-14h before: Mix all ingredients for biga, cover with plastic wrap, and let sit at room temp.
-2. In a medium bowl, mix together the biga and the warm water. Mix until the biga is broken up. (Will make it easier to combine w the other ingredients)
-3. Mix the instant yeast, salt, and wheat flour.
+2. In a medium bowl, mix together the biga and the warm water. Mix until the biga is broken up an softened. (Will make it easier to combine w the other ingredients)
+3. Mix the instant yeast, and salt until a little frothy. Add wheat flour.
 4. Mix using the pincer method. Use a wet hand to squeeze and massage the dough until there are no longer any big visual differences of biga (white flour) and whole wheat dough.
 5. Cover the bowl and let the dough rise for 30 minutes.
 6. Perform a strength building fold by pulling out a handful of the dough on one side and folding it over to the other side of the dough. Repeat this step again 30 mins later 2 more times. (3 folds total over 90 mins)
@@ -46,6 +45,6 @@ categories:
 14. Fold the towel over the dough and let it proof at room temperature for 60 minutes (depending on the temperature of your house) until it has doubled in size. When you poke the dough, it should indent then slowly spring back.
 15. Preheat the oven to 475°F with a dutch oven inside for 45 minutes. 
 16. Carefully flip the shaped loaf into the dutch oven (seam side will now be DOWN) and score the top with a few cuts or slices.
-17. Cover the dutch oven with the lid and bake for 30 minutes.
-18. Remove the lid and continue baking for another 20-25 minutes.
-19. Once baked, transfer the loaf to a wire rack to cool minimum 1 hour.
+17. Cover the dutch oven with the lid and bake for 20 minutes.
+18. Remove the lid and continue baking for another 25 minutes.
+19. Once baked, transfer the loaf to a wire rack to cool minimum 2 hours.

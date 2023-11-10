@@ -3,8 +3,11 @@ theme:
   name: material
   favicon: images/favicon_io/favicon.ico
   logo: images/favicon_io/icon.png
+  custom_dir: overrides
   palette:
     primary: blue grey
+extra_css:
+  - stylesheets/extra.css
 plugins:
   - glightbox
   - macros
