@@ -13,8 +13,8 @@ categories:
 
 !!! note ""
     Yield 12 Servings  
-    30mins active, 1h20m total
-    Tip: Popovers can also be topped with caramelized onion, garlic and diced bacon instead of the cheese.
+    30mins active, 1h20m total  
+    **Tip**: Popovers can also be topped with caramelized onion, garlic and diced bacon instead of the cheese.
     
 ## Ingredients
 * 4 cups all purpose flour
