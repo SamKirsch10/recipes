@@ -43,28 +43,11 @@ questions = [
     inquirer.Text('add_categories', message="New categories (comma-separated)"),
     inquirer.Text('servings', message="Servings"),
     inquirer.Text('total_time', message="Cook time (ex. 25 mins)"),
-    # inquirer.Editor('ingredients', message="Ingredients"),
-    # inquirer.Editor('steps', message="Steps"),
+    inquirer.Editor('ingredients', message="Ingredients"),
+    inquirer.Editor('steps', message="Steps"),
 ]
 
-# answers = inquirer.prompt(questions)
-root= tk.Tk()
-canvas1 = tk.Canvas(root, width=400, height=300)
-canvas1.pack()
-entry1 = tk.Text(root) 
-canvas1.create_window(200, 140, window=entry1)
-value = ""
-def get_val():
-    global value
-    value = entry1.get("1.0","end-1c")
-    root.after_cancel("")
-comment= tk.Button(root, height=5, width=10, text="Comment", command=lambda: get_val())
-comment.pack()
-root.mainloop()
-
-
-import sys
-sys.exit(1)
+answers = inquirer.prompt(questions)
 
 
 answers['categories'] = answers['categories'] + answers['add_categories'].split(',')
