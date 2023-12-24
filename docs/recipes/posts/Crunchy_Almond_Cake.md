@@ -21,7 +21,8 @@ categories:
 * 1 1⁄2 sticks unsalted butter (6 oz / 170g), at room temperature
 * 2⁄3 cup granulated sugar (4.7 oz / 133g)
 * 4 large eggs (7 oz / 200g), at room temperature
-* 1⁄4 cup amaretto (2 oz / 57g) 2 teaspoons vanilla extract
+* 1⁄4 cup amaretto (2 oz / 57g) 
+* 2 teaspoons vanilla extract
 
 
 ## Steps
