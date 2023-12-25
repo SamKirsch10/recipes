@@ -15,24 +15,37 @@ categories:
 
 ## Ingredients
 
-### Poolish
-* 170g 80°F water
-* 0.3g yeast
-* 250g bread flour
- 
-### Rest of Ingredients
-* 250g whole wheat flour
-* 230g 105° water 
-* 11g salt
-* 1.6g instant yeast
-* All the biga from above
-  
+=== "White Boule"
+
+    ### Biga
+    * 272g 85°F water
+    * 400g Bread Flour
+    * 0.4g yeast
+
+    ## Rest of Ingredients
+    * 100g Bread Flour
+    * 103g 105° water
+    * 1.1g yeast
+    * 11g salt 
+
+=== "Whole Wheat Boule"
+
+    ### Biga
+    * 170g 85°F water
+    * 0.3g yeast
+    * 250g Bread Flour
+    
+    ### Rest of Ingredients
+    * 250g whole wheat flour
+    * 230g 105° water 
+    * 11g salt
+    * 1.6g instant yeast
 
 ## Steps
 1. 12-14h before: Mix all ingredients for biga, cover with plastic wrap, and let sit at room temp.
 2. In a medium bowl, mix together the biga and the warm water. Mix until the biga is broken up an softened. (Will make it easier to combine w the other ingredients)
-3. Mix the instant yeast, and salt until a little frothy. Add wheat flour.
-4. Mix using the pincer method. Use a wet hand to squeeze and massage the dough until there are no longer any big visual differences of biga (white flour) and whole wheat dough.
+3. Mix the instant yeast, and salt until a little frothy. Add rest of flour.
+4. Mix using the pincer method. Use a wet hand to squeeze and massage the dough until there are no longer any big visual differences of biga (white flour) and rest of flour.
 5. Cover the bowl and let the dough rise for 30 minutes.
 6. Perform a strength building fold by pulling out a handful of the dough on one side and folding it over to the other side of the dough. Repeat this step again 30 mins later 2 more times. (3 folds total over 90 mins)
 7. After the folds, grab the ball of dough, around its side/bottom, picking up the ball,  rounding and rotating it, then setting it back down to tension across the top and round it onto a ball. Do this several times.
