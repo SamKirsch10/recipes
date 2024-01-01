@@ -11,13 +11,13 @@ categories:
 ![Brown-Sugar-Maple-Cookie-Pie-1.jpg](../../images/Brown-Sugar-Maple-Cookie-Pie-1.jpg){ style="width:60%;" }
 
 !!! note ""
-    Site https://www.halfbakedharvest.com/brown-sugar-maple-cookie-pie/
+    Site [https://www.halfbakedharvest.com/brown-sugar-maple-cookie-pie/](https://www.halfbakedharvest.com/brown-sugar-maple-cookie-pie/)  
     Yield 8-10 Servings  
-    1hr 20min
+    1hr 20min  
     Can be made gluten-free with a [GF frozen crust](https://www.kroger.com/p/wholly-gluten-free-pie-shells-2-count/0007467784220)
     
 ## Ingredients
-* 1 pie crust round (buy frozen!)
+* 1 pie crust round
 * 1 egg, beaten, for brushing
 * vanilla sugar or coarse sugar, for sprinkling (optional)
 * 4 tablespoons salted butter
