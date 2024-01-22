@@ -26,5 +26,6 @@ markdown_extensions:
       alternate_style: true
 nav:
   - index.md
+  - spinner.md
   - Recipes:
     - recipes/index.md 
