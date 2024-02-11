@@ -51,6 +51,9 @@ answers = inquirer.prompt(questions)
 
 
 answers['categories'] = answers['categories'] + answers['add_categories'].split(',')
+while "" in answers['categories']:
+    answers['categories'].remove("")
+
 answers['ingredients'] = answers['ingredients'].split('\n')
 answers['steps'] = [f"{i+1}. {step}" for i, step in enumerate(answers['steps'].split('\n'))]
 
