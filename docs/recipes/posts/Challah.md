@@ -19,7 +19,6 @@ categories:
 * 169 grams bread flour
 
 ### For the Dough
-* 72g golden raisins (optional)
 * 113g honey
 * 75g extra-virgin olive oil
 * 1 large egg yolk, at room temperature
