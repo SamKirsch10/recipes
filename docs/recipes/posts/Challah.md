@@ -17,6 +17,7 @@ categories:
 ### For the Preferment
 * 4g active dry yeast
 * 169 grams bread flour
+* 160 grams water @ 105 degrees
 
 ### For the Dough
 * 113g honey
@@ -31,7 +32,7 @@ categories:
 ## Steps
 1. Make the preferment: In a medium bowl, combine the yeast and ¼ cup/57 grams warm tap water (100 to 110 degrees), and whisk until the yeast is dissolved. Add another ½ cup/113 grams room temperature water and the bread flour, and stir with a flexible spatula or bowl scraper until you have a smooth, pasty mixture with no dry spots. It should look like a thick batter.
 2. Scrape the mixture into the center of the bowl and cover tightly. Let the preferment sit at room temperature until it’s nearly tripled in size, extremely bubbly across the surface, and jiggles on the verge of collapsing when the bowl is shaken, 1 to 2 hours (depending on the ambient temperature).
-3. Mix the dough: In a medium bowl, whisk together the honey, olive oil, the yolk and 2 of the eggs until smooth, then add to the bowl with the preferment. Add the bread flour and salt. Use a flexible spatula or bowl scraper to stir the mixture, making sure to scrape the sides and bottom of the bowl to incorporate the preferment, until a shaggy dough comes together.
+3. Mix the dough: In a medium bowl, whisk together the 113g honey, 75g olive oil, the yolk and 2 of the eggs until smooth, then add to the bowl with the preferment. Add the 405g bread flour and 11g salt. Use a flexible spatula or bowl scraper to stir the mixture, making sure to scrape the sides and bottom of the bowl to incorporate the preferment, until a shaggy dough comes together.
 4.  Knead the dough: Generously flour the work surface, then scrape the dough and any floury bits out of the bowl and onto the surface (reserve the bowl). Generously flour the dough. Use the heel of your hands to knead the dough, adding flour as needed if the dough is sticking to your hands or the surface, until the dough is very smooth, elastic and slightly tacky, 10 to 15 minutes. (You can also combine everything in a stand mixer and mix on low speed with the dough hook for 8 to 10 minutes, adding more flour as needed until the dough pulls away from the sides of the bowl.)
 5.  Test the dough: Pinch off a golf ball-size piece and flatten it with your fingertips. Stretch the dough outward in all directions gently and slowly: You should be able to form a sheet of dough that’s thin enough to allow light to pass through without tearing. If the dough tears, continue kneading. 
 6.  Roll up the dough and gather it back into a ball, then knead until the raisins are distributed throughout.
@@ -40,14 +41,14 @@ categories:
 9.  Braid or twist the dough: For a braid, roll each of the 6 pieces into snakes measuring about 18 inches long and slightly tapered at the ends. Dust the strands in flour to coat them lightly, then line them up so they’re side by side. Pinch together the ends of the strands to connect them at the top.
 
     !!! note "Braid Technique"
-        * Take the strand on the far right and cross it over the other strands, so it’s all the way on the far left side, placing it perpendicular to the other strands. 
-        * Take the strand that was originally on the far left, and is now second from the left, and bring it all the way to the far right, also placing it perpendicularly.
-        * Fan out the remaining strands so there’s a generous space in the center. 
-        * Take the strand on the far left and bring it to the center, but group it with the strands on the right. 
-        * Bring the strand that’s second from the right and cross it over to the far left, also placing it perpendicular. 
-        * Then, fan out the strands again, leaving a space in the center, and bring the strand on the far right to the center, grouping it with the strands on the left. 
-        * Bring the strand second from the left to the far right and cross it over to the far left. \
-        * Repeat this process until you’ve braided the entire length of the strands, tugging gently on the strands as you work to create tension in the braid. 
+        1. Take the strand on the far right and cross it over the other strands, so it’s all the way on the far left side, placing it perpendicular to the other strands.  
+        2. Take the strand that was originally on the far left, and is now second from the left, and bring it all the way to the far right, also placing it perpendicularly.  
+        3. Fan out the remaining strands so there’s a generous space in the center.   
+        4. Take the strand on the far left and bring it to the center, but group it with the strands on the right.  
+        5. Bring the strand that’s second from the right and cross it over to the far left, also placing it perpendicular.  
+        6. Then, fan out the strands again, leaving a space in the center, and bring the strand on the far right to the center, grouping it with the strands on the left.  
+        7. Bring the strand second from the left and cross it over to the far right.  
+        8. Repeat **C** - **G** until you’ve braided the entire length of the strands, tugging gently on the strands as you work to create tension in the braid.  
 
 
 10. Pinch the ends of the braids and tuck them underneath the loaf, then transfer to a parchment-lined sheet pan. Make sure you have a couple of inches of clearance on either side of the braid so it can expand.
